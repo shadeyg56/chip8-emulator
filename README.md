@@ -38,4 +38,4 @@ Run the program using
 
 ## Acknowledements
 
-I used [this guide](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/#8xy6-and-8xye-shift) for all of the info on the architexture and CPU instructions
+I used [this guide](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/) for all of the info on the architexture and CPU instructions
